@@ -1,2 +1,2 @@
-# multi-pendulum-sim
+# N-Pendulum Simulation
 100% vibe coded...
